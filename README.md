@@ -5,6 +5,6 @@
 - 📫 How to reach me ...
 
 <!---
-prathmeshg26/prathmeshg26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+prathmeshg26/java programming is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
