@@ -1,4 +1,4 @@
-/* QesPrint any multiplication table using for loop
+/* Qes 1:-Print any multiplication table using for loop
  * 
  * 
  * 		NAME:-PRATHMESH RAJESH GONDHALI
